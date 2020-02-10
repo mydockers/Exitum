@@ -1,0 +1,4 @@
+batch
+
+#Postgres Sql
+module add --name=org.postgres --resources=/tmp/postgresql.jar --dependencies=javax.api,javax.transaction.api
